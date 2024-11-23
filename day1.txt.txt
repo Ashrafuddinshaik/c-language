@@ -1,3 +1,5 @@
+SUM AND AVERAGE OF TWO NUMBERS
+
 #include<stdio.h>
 int main()
 {
