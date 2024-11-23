@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+ 
+  
+    int x, y, z, sum;           
+   float avg;
+
+   printf("Enter Three Numbers : \n");    
+   scanf("%d %d %d",&x, &y, &z);     
+
+   sum = x + y +z;
+   printf("Sum of Three Numebers is : %d", sum);    
+
+   avg=sum/3;                  
+   printf("\n Average of Three Numebers is : %f", avg);    
+
+   return 0;
+}
